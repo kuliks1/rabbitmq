@@ -9,6 +9,7 @@ public class RabbitmqDemoApplication {
     public static void main(String[] args) {
         SpringApplication.run(RabbitmqDemoApplication.class, args);
         System.out.println("this is master change ");
+        System.out.println("hot-fix change");
     }
 
 }
